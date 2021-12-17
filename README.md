@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Mehedi Hasan Munna 
 #### I'm a Programmer.
-![I'm a Programmer.](https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/240818403_842333509777114_2880250262657596904_n.jpg?_nc_cat=101&cb=c578a115-1d1e314d&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEezlYiqUrWSFBe3JgahiSTANKfUuoWUpwA0p9S6hZSnM36WqN3sKC-uhU8UNcpp0DcFZQKsUiP3Ugz2PxWlEFo&_nc_ohc=cZcdb89Ne7QAX8QB2Ag&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9eS0D6iBwUJvG0InfeXEzlMIJMyibvQJ48QBegdXXSHQ&oe=61C1A245)
-
 I have a passion for learning and sharing my knowledge with others. I love to solve problems . I am strategic , goal oriented & always work with an end goal in my mind .
 
 Skills: C 
